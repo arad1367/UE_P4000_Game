@@ -119,9 +119,16 @@ UE_P4000_Game/
 - Add more environment set‑pieces and dynamic hazards.
 - Publish anonymized aggregate results of the study when available.
 
+## Quick Error Handling
+
+One important note that I saw when I try to upload in cloud, mae sure before package game in UE, check "NavMeshBoundsVolume" and make sure built that because in PIE by default it made by UE but in production you need to care about that.
+
+<img src="Images/NavMeshBoundsVolume.png" alt="UE P4000 Screenshot SC@" width="75%" />
+
 ## Citation
 
 If you use UE P4000 in academic or industry research, please cite this repository. A BibTeX entry will be provided with the corresponding paper/preprint.
+
 
 ## Contact
 
