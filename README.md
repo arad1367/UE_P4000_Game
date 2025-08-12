@@ -2,9 +2,9 @@
 # UE_P4000_Game — UE P4000: AI-Driven NPC Behavior Research (Unreal Engine)
 
 <p align="center">
-  <img src="banner/BannerMain2.webp" alt="UE P4000 Main Banner" />
+  <img src="Banners/BannerMain2.webp" alt="UE P4000 Main Banner" />
   <br />
-  <img src="banner/Banner2.webp" alt="UE P4000 Secondary Banner" />
+  <img src="Banners/Banner2.webp" alt="UE P4000 Secondary Banner" />
 </p>
 
 A research-driven Unreal Engine project exploring how players perceive and interact with NPCs that exhibit different competencies and behaviors in a harsh sci‑fi world set on Earth in the year 4000.
@@ -65,17 +65,17 @@ If you are participating via Prolific, please follow the instructions provided w
 ## Screenshots
 
 <p align="center">
-  <img src="image/SC21.png" alt="UE P4000 Screenshot SC21" width="32%" />
-  <img src="image/SS1.png" alt="UE P4000 Screenshot SS1" width="32%" />
-  <img src="image/SS2.png" alt="UE P4000 Screenshot SS2" width="32%" />
+  <img src="Images/SC21.png" alt="UE P4000 Screenshot SC21" width="32%" />
+  <img src="Images/SS1.png" alt="UE P4000 Screenshot SS1" width="32%" />
+  <img src="Images/SS2.png" alt="UE P4000 Screenshot SS2" width="32%" />
 </p>
 <p align="center">
-  <img src="image/SC11.png" alt="UE P4000 Screenshot SC11" width="32%" />
-  <img src="image/SC9.png" alt="UE P4000 Screenshot SC9" width="32%" />
-  <img src="image/SC2.png" alt="UE P4000 Screenshot SC@" width="32%" />
+  <img src="Images/SC11.png" alt="UE P4000 Screenshot SC11" width="32%" />
+  <img src="Images/SC9.png" alt="UE P4000 Screenshot SC9" width="32%" />
+  <img src="Images/SC2.png" alt="UE P4000 Screenshot SC@" width="32%" />
 </p>
 <p align="center">
-  <img src="image/SC1.png" alt="UE P4000 Screenshot SC1" width="49%" />
+  <img src="Images/SC1.png" alt="UE P4000 Screenshot SC1" width="49%" />
 </p>
 
 ## Getting Started
