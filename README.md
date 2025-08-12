@@ -96,7 +96,7 @@ If you are participating via Prolific, please follow the instructions provided w
 
 ## System Requirements (suggested)
 
-- Windows 10/11 recommended for best performance.
+- Windows 11 recommended for best performance.
 - A mid‑range GPU is suggested due to high‑quality materials and post‑processing.
 - 8–16 GB RAM minimum depending on selected quality settings.
 
