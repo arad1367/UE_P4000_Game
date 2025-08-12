@@ -4,7 +4,7 @@
 <p align="center">
   <img src="Banners/BannerMain2.webp" alt="UE P4000 Main Banner" />
   <br />
-  <img src="Banners/Banner2.webp" alt="UE P4000 Secondary Banner" />
+  <img src="Banners/Banner2.png" alt="UE P4000 Secondary Banner" />
 </p>
 
 A research-driven Unreal Engine project exploring how players perceive and interact with NPCs that exhibit different competencies and behaviors in a harsh sci‑fi world set on Earth in the year 4000.
@@ -104,10 +104,10 @@ If you are participating via Prolific, please follow the instructions provided w
 
 ```
 UE_P4000_Game/
-├─ banner/
+├─ Banners/
 │  ├─ BannerMain2.webp
 │  └─ Banner2.webp
-├─ image/
+├─ Images/
 │  ├─ SC21.png SS1.png SS2.png SC11.png SC9.png SC@.png SC1.png
 └─ (Unreal project files and Content/…)
 ```
