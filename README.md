@@ -9,7 +9,8 @@
 
 A research-driven Unreal Engine project exploring how players perceive and interact with NPCs that exhibit different competencies and behaviors in a harsh sci‑fi world set on Earth in the year 4000.
 
-[Play Demo on YouTube →](https://youtu.be/f9Fn6YYHrzg)
+[Play First Demo on YouTube →](https://youtu.be/f9Fn6YYHrzg)
+[Play Second Demo on YouTube →](https://youtu.be/l0rol-Ke4ps)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pejman-ebrahimi-4a60151a7/)
 [![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)](https://huggingface.co/arad1367)
